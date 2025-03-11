@@ -1,0 +1,79 @@
+/* .navbar{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 5px 170px;
+  font-family:Georgia, 'Times New Roman', Times, serif
+}
+.nav-menu{
+  display: flex;
+  align-items: center;
+  list-style: none;
+  gap:60px;
+  font-size: 20px;
+}
+.nav-connect{
+  padding: 20px 40px;
+  border-radius: 50px;
+  background: linear-gradient(267deg, #DA7C25 0.36%, #B923E1 102%);
+  font-size: 22PX;
+  cursor: pointer; 
+  transition: 0.5s;
+}
+.nav-connect:hover{
+  transform: scale(1.05);
+}
+
+.hero span{
+  background: linear-gradient(267deg, #DA7C25 0.36%, #B923E1 102%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.hero-conncet{
+  background:linear-gradient(267deg, #DA7C25 0.36%, #B923E1 102%); 
+  cursor: pointer;
+}
+
+ .about{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 80px;
+  margin: 80px 170px;
+
+} 
+
+ */
+
+ .btn1{          /*Navbar */
+  background: linear-gradient(267deg, #DA7C25 0.36%, #B923E1 102%);
+  transition: 0.5s;
+}
+.text1{    /* Hero Section */
+  background: linear-gradient(267deg, #DA7C25 0.36%, #B923E1 102%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.text2{    /* About Section */
+  background: linear-gradient(270deg, #DF8908 50.41%, #B415ff 90.25%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.about:hover{
+   transform: scale(1.05);
+   transition: 0.3s;
+}
+.about2:hover{
+   transform: scale(1.12);
+   transition: 0.5s;
+}
+
+
+.img2:hover {
+  transform: scale(1.1); /* Increases size by 10% */
+}
