@@ -22,7 +22,7 @@ const AboutMe = () => {
           <p className="text-lg mb-5">
           I am passionate about full-stack web development and bring dedication and excitement to every project."
           </p>
-          <div className="flex flex-col gap-y-5 ">
+          <div className="flex flex-col gap-y-5 justify-between  ">
             <div className="flex items-center gap-x-5 about">
               {" "}
               {/*about for hover effect*/}
@@ -36,7 +36,7 @@ const AboutMe = () => {
               <p className="font-semibold">JS </p>
               <hr
                 style={{ width: "70%" }}
-                className="btn1 h-1 border-0 rounded"
+                className="btn1 h-1 border-0 rounded "
               />
             </div>
             <div className="flex items-center gap-x-5 about">
@@ -53,19 +53,20 @@ const AboutMe = () => {
                 className="btn1 h-1 border-0 rounded"
               />
             </div>
-          </div>
+          </div>  
+
         </div>
       </div>
       <div className="mt-10 flex justify-around text-center">
         <div className="about2 text-gray-300">
           {/**about2 for hove effect */}
-          <h3 className="text-5xl font-bold text1">3+</h3>  {/** text2  -color gradient */}
-          <p className="text-lg">Month Internship</p>
+          <h3 className="text-5xl font-bold text1">10+</h3>  {/** text2  -color gradient */}
+          <p className="text-lg">Projects</p>
         </div>
         <div className="about2">
           {/**about2 for hove effect */}
-          <h3 className="text-5xl font-bold text2">10+</h3>
-          <p className="text-lg">Projects</p>
+          <h3 className="text-5xl font-bold text2">3</h3>
+          <p className="text-lg">Month Internship</p>
         </div>
           {/**about2 for hove effect */}
         {/* <div className="about2 ">
