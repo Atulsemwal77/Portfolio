@@ -11,9 +11,9 @@ const Footer = () => {
             <span className="text2">A</span>tul
           </h2>
           <p className="mt-2 text-gray-400 max-w-lg">
-            I am a frontend developer from USA with 10 years of experience in
-            companies like Microsoft, Tesla, and Apple.
-          </p>
+          I am a full-stack web developer, from Dehradun, Uttarakhand. I have
+          completed a 3-month internship at NovaNectar Service Pvt Ltd.
+        </p>
         </div>
 
         {/* Right Side */}

@@ -3,7 +3,7 @@ import project from '../assets/project_1.png';
 import project2 from '../assets/project_2.png';
 import project3 from '../assets/project_3.png';
 import project4 from '../assets/project_4.png';
-import project5 from '../assets/project_5.svg';
+import project5 from '../assets/project_5.png';
 import project6 from '../assets/project_6.png';
 
 const projects = [
@@ -11,7 +11,7 @@ const projects = [
   { id: 2, title: "Stay BNB Website", image: project2 },
   { id: 3, title: "BootStrap Demo", image: project3 },
   { id: 4, title: "E-commerce Website", image: project4 },
-  { id: 5, title: "Dental Care Website", image: project5 },
+  { id: 5, title: "Restaurant Reservation Website", image: project5 },
   { id: 6, title: "Portfolio Website", image: project6 },
 ];
 
